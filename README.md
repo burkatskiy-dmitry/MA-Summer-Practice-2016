@@ -45,4 +45,4 @@
 
 * [Мова програмування Python](https://www.python.org)
 * [Мікрофреймворк Flask](http://flask.pocoo.org/)
-* [Вікіпідручник Flask](https://ru.wikibooks.org/wiki/Flask)
+
