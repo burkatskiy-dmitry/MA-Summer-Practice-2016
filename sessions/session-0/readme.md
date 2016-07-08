@@ -35,3 +35,5 @@
 * [Setting Up Postgres, SQLAlchemy, and Alembic](https://realpython.com/blog/python/flask-by-example-part-2-postgres-sqlalchemy-and-alembic/)
 * [REST](https://habrahabr.ru/post/38730/)
 * [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete/)
+* [Gulp](http://gulpjs.com/)
+* [SCSS](http://sass-lang.com/guide)
